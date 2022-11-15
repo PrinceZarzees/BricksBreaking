@@ -1,2 +1,2 @@
 
-#download the project and run "BricksBreaking.exe" file
+# download the project and run "BricksBreaking.exe" file
