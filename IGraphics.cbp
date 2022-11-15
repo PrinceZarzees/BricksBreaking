@@ -52,11 +52,12 @@
 			<Add library="OpenGL/lib/glui32.lib" />
 			<Add library="OpenGL/lib/glut32.lib" />
 			<Add library="OpenGL/lib/OPENGL32.LIB" />
+			<Add library="winmm" />
 		</Linker>
 		<ExtraCommands>
 			<Add after="xcopy /y OpenGL\DLL\glut32.dll $TARGET_OUTPUT_DIR" />
 		</ExtraCommands>
-		<Unit filename="SolarSystem.cpp" />
+		<Unit filename="bricksbreaking.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

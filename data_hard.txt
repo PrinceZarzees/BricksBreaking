@@ -1,0 +1,6 @@
+abrar 15 50
+abrar 15 55
+zarzees 15 81
+abrar 16 70
+zargis 17 74
+avrar 17 84
